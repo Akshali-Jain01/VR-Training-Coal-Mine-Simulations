@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Scenes/FirstScene.unity
+    guid: 1e21ffed25bb1b744bb8350c8b33cf01
+  - enabled: 1
+    path: Assets/_Scenes/Rescue room.unity
+    guid: 20bfa76707acd2f4ab834e6d46901fbb
+  - enabled: 1
+    path: Assets/_Scenes/FireIntro.unity
+    guid: c878b652c4b0c1d45a27833e45b14658
+  - enabled: 1
+    path: Assets/_Scenes/SolidFire.unity
+    guid: 2cad6d9e83df71d4abe8842f01b5d33a
+  - enabled: 1
+    path: Assets/_Scenes/Flooding.unity
+    guid: a17c3a4c74543b740a9e2e19baf41390
+  - enabled: 1
+    path: Assets/_Scenes/collapsing.unity
+    guid: 74939ad73eea02144914d3567b73f8b5
+  - enabled: 1
+    path: Assets/_Scenes/collapse prevent.unity
+    guid: cbf737fe8d0afeb4d9493990dd133cda
+  - enabled: 1
+    path: Assets/certificate.unity
+    guid: 75272da9ba16b4944b60bb33a14bac4f
+  - enabled: 1
+    path: Assets/Language selection.unity
+    guid: 350bd55c7c89f7745be87b971b5bb8af
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: a065ed8b486988346bd24ef577371338,
+      type: 2}

@@ -55,6 +55,13 @@ ExportedObj/
 # Unity3D generated file on crash reports
 sysinfo.txt
 
+# Ignore .fbx files
+*.fbx
+
+
+
+
+
 # Builds
 *.apk
 *.aab

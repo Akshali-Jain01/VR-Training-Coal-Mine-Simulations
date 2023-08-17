@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.allscenesupdate.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "E:\\COLLEGE PROJECTS\\SIH 2022-raw backup\\Unity All Projects\\all scenes update\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "all scenes update [Testing]"
+        }
+      }
+    }
+  ]
+}

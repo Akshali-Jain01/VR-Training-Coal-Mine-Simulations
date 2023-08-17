@@ -1,0 +1,161 @@
+fileFormatVersion: 2
+guid: 0cbbc03bb1334af4796eca5a6c587b71
+timeCreated: 1532070480
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Cylinder068
+    100002: Cylinder069
+    100004: drip_control
+    100006: drip_pipe
+    100008: //RootNode
+    100010: Line002
+    100012: Object019
+    100014: Object020
+    100016: Object021
+    100018: Object022
+    100020: sui
+    100022: tape
+    100024: tape1
+    400000: Cylinder068
+    400002: Cylinder069
+    400004: drip_control
+    400006: drip_pipe
+    400008: //RootNode
+    400010: Line002
+    400012: Object019
+    400014: Object020
+    400016: Object021
+    400018: Object022
+    400020: sui
+    400022: tape
+    400024: tape1
+    2100000: Cylinder068Mat
+    2100002: Cylinder069Mat
+    2100004: drip_controlMat
+    2100006: drip_pipeMat
+    2100008: Line002Mat
+    2100010: Object019Mat
+    2100012: Object020Mat
+    2100014: Object021Mat
+    2100016: Object022Mat
+    2100018: suiMat
+    2100020: tapeMat
+    2100022: tape1Mat
+    2300000: Cylinder068
+    2300002: Cylinder069
+    2300004: drip_control
+    2300006: drip_pipe
+    2300008: Line002
+    2300010: Object019
+    2300012: Object020
+    2300014: Object021
+    2300016: Object022
+    2300018: sui
+    2300020: tape
+    2300022: tape1
+    3300000: Cylinder068
+    3300002: Cylinder069
+    3300004: drip_control
+    3300006: drip_pipe
+    3300008: Line002
+    3300010: Object019
+    3300012: Object020
+    3300014: Object021
+    3300016: Object022
+    3300018: sui
+    3300020: tape
+    3300022: tape1
+    4300000: Cylinder068
+    4300002: Cylinder069
+    4300004: drip_control
+    4300006: drip_pipe
+    4300008: Line002
+    4300010: Object019
+    4300012: Object020
+    4300014: Object021
+    4300016: Object022
+    4300018: sui
+    4300020: tape
+    4300022: tape1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
